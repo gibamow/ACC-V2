@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x2D5d528dC0A493E850C1d1E187e96260D8013898",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x2d5d528dc0a493e850c1d1e187e96260d8013898",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "sha Collection",
+  "SYMBOL": "ASSC",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/assc",
+  "SHOW_BACKGROUND": true
+}
